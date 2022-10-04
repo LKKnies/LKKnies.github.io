@@ -1,0 +1,926 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<title>Calendário Acadêmico 2022</title>
+		<meta charset="utf-8">
+		<style>
+			table, th, td{
+				border: 1px solid green;
+				border-collapse: collapse;
+				background-color: white;
+			}
+		</style>
+	</head>
+	<body>
+		<h1>Calendário Acadêmico 2022</h1>
+		<table>
+			<thead>
+				<tr>
+					<th colspan="7" style="color:darkgreen;">Janeiro</th>
+				</tr>
+			</thead>
+			<thead>
+				<tr>
+					<th style="background-color:palegreen;">D</th>
+					<th style="background-color:palegreen;">S</th>
+					<th style="background-color:palegreen;">T</th>
+					<th style="background-color:palegreen;">Q</th>
+					<th style="background-color:palegreen;">Q</th>
+					<th style="background-color:palegreen;">S</th>
+					<th style="background-color:palegreen;">S</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td style="background-color:darkgreen;"><b>1</b></td>
+				</tr>
+				<tr>
+					<td><b>2</b></td>
+					<td>3</td>
+					<td>4</td>
+					<td>5</td>
+					<td>6</td>
+					<td>7</td>
+					<td>8</td>
+				</tr>
+				<tr>
+					<td><b>9</b></td>
+					<td>10</td>
+					<td>11</td>
+					<td>12</td>
+					<td>13</td>
+					<td>14</td>
+					<td>15</td>
+				</tr>
+				<tr>
+					<td><b>16</b></td>
+					<td>17</td>
+					<td>18</td>
+					<td>19</td>
+					<td>20</td>
+					<td>21</td>
+					<td>22</td>
+				</tr>
+				<tr>
+					<td><b>23</b></td>
+					<td>24</td>
+					<td>25</td>
+					<td>26</td>
+					<td>27</td>
+					<td>28</td>
+					<td>29</td>
+				</tr>
+				<tr>
+					<td><b>30</b></td>
+					<td>31</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+		</table>
+<p><b>1</b> – Feriado nacional: Confraternização Universal</p>
+<p><b>29</b> – Colação de grau – Odontologia (turma de 2021)</p>
+
+		<table>
+			<thead>
+				<tr>
+					<th colspan="7" style="color:darkgreen;">Fevereiro</th>
+				</tr>
+			</thead>
+			<thead>
+				<tr>
+					<th style="background-color:palegreen;">D</th>
+					<th style="background-color:palegreen;">S</th>
+					<th style="background-color:palegreen;">T</th>
+					<th style="background-color:palegreen;">Q</th>
+					<th style="background-color:palegreen;">Q</th>
+					<th style="background-color:palegreen;">S</th>
+					<th style="background-color:palegreen;">S</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td></td>
+					<td></td>
+					<td>1</td>
+					<td style="background-color:yellow;">2</td>
+					<td>3</td>
+					<td>4</td>
+					<td>5</td>
+				</tr>
+				<tr>
+					<td><b>6</b></td>
+					<td>7</td>
+					<td>8</td>
+					<td>9</td>
+					<td>10</td>
+					<td>11</td>
+					<td>12</td>
+				</tr>
+				<tr>
+					<td><b>13</b></td>
+					<td>14</td>
+					<td>15</td>
+					<td>16</td>
+					<td>17</td>
+					<td>18</td>
+					<td>19</td>
+				</tr>
+				<tr>
+					<td><b>20</b></td>
+					<td>21</td>
+					<td>22</td>
+					<td>23</td>
+					<td>24</td>
+					<td>25</td>
+					<td>26</td>
+				</tr>
+				<tr>
+					<td><b>27</b></td>
+					<td>28</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+		</table>
+<p><b>2</b> – Término das férias para os professores,tutores e preceptores que gozaram de 30 dias de férias</p>
+<p><b>2</b> – Posse dos novos coordenadores de curso</p>
+<p><b>4</b> – Colação de grau – Odontologia (turma de 2020)</p>
+<p><b>7 a 11</b> – Profissionalização Docente Intensiva</p>
+<p><b>11</b> – Colação de grau – Direito Joinville (turmas de 2020-2 e 2021-2)</p>
+<p><b>14 a 18</b> – Planejamento pedagógico</p>
+<p><b>16 e 17</b> – Colação de grau especial em Joinville</p>
+<p><b>19</b> – Colação de grau – Educação Física, Ciências Biológicas (Meio Ambiente e Biodiversidade – MAB), Design, Fotografia e Publicidade e Propaganda (Joinville – turmas de 2020)</p>
+<p><b>19</b> – Colação de grau – Psicologia (Joinville – turma de 2021)</p>
+<p><b>21</b> – Início das aulas do curso de Ciências da Religião, Educação Especial, Educação Escolar Quilombola e da 4.ª e 5.ª séries do curso de Psicologia</p>
+<p><b>24</b> – Data limite para envio de projetos de pesquisa para análise do Comitê de Ética em Pesquisa</p>
+<p><b>28</b> – Último dia para entrega do Relatório de Atividades/2021 do Núcleo Docente Estruturante (NDE)</p>
+<p><b>28</b> – Recesso acadêmico e administrativo</p>
+		<table>
+			<thead>
+				<tr>
+					<th colspan="7" style="color:darkgreen;">Março</th>
+				</tr>
+			</thead>
+			<thead>
+				<tr>
+					<th style="background-color:palegreen;">D</th>
+					<th style="background-color:palegreen;">S</th>
+					<th style="background-color:palegreen;">T</th>
+					<th style="background-color:palegreen;">Q</th>
+					<th style="background-color:palegreen;">Q</th>
+					<th style="background-color:palegreen;">S</th>
+					<th style="background-color:palegreen;">S</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td></td>
+					<td></td>
+					<td style="background-color:darkgreen;"><b>1</b></td>
+					<td style="background-color:darkgreen;">2</td>
+					<td style="background-color:yellow;">3</td>
+					<td>4</td>
+					<td>5</td>
+				</tr>
+				<tr>
+					<td><b>6</b></td>
+					<td>7</td>
+					<td>8</td>
+					<td style="background-color:darkgreen;"><b>9</b></td>
+					<td>10</td>
+					<td>11</td>
+					<td>12</td>
+				</tr>
+				<tr>
+					<td><b>13</b></td>
+					<td>14</td>
+					<td>15</td>
+					<td>16</td>
+					<td>17</td>
+					<td>18</td>
+					<td>19</td>
+				</tr>
+				<tr>
+					<td><b>20</b></td>
+					<td>21</td>
+					<td>22</td>
+					<td>23</td>
+					<td>24</td>
+					<td>25</td>
+					<td>26</td>
+				</tr>
+				<tr>
+					<td><b>27</b></td>
+					<td>28</td>
+					<td>29</td>
+					<td>30</td>
+					<td>31</td>
+					<td></td>
+					<td></td>
+				</tr>
+		</table>
+<p><b>1</b> – Carnaval: recesso acadêmico e administrativo</p>
+<p><b>2</b> – Recesso acadêmico e administrativo até as 12h</p>
+<p><b>3</b> – Início das aulas</p>
+<p><b>9</b> – Feriado municipal em Joinville: aniversário da cidade</p>
+<p><b>10</b> – Reunião do Comitê de Ética em Pesquisa</p>
+<p><b>12</b> – Colação de grau do curso de Gestão Comercial (São Bento do Sul, turma de 2021) e Educação Física (bacharelado e licenciatura, Joinville, turmas de 2021)</p>
+<p><b>14</b> – Último dia para os alunos matriculados em 2022/1 (regime anual) e 2022-1 (regime semestral) requererem: exame de aproveitamento de estudos, dispensa de disciplina, matrícula em disciplina extracurricular e fora da série</p>
+<p><b>16 e 17</b> – Colação de grau especial em Joinville</p>
+<p><b>17</b> – Último dia para os alunos matriculados em 2021/1 (regime anual) e 2021-2 (regime semestral) solicitarem matrícula fora do prazo</p>
+<p><b>18</b> – Colação de grau – Eng. Química e Arquitetura e Urbanismo (Joinville – turmas de 2019)</p>
+<p><b>19</b> – Colação de grau – Direito (noturno, turma de 2021), Administração (1.º semestre de 2021), Educação Física (turma de 2021) e Eng. Mecânica (turma de 2021), todos do Campus São Bento do Sul</p>
+<p><b>19</b> – Colação de grau – Ciências Biológicas (licenciatura e bacharelado em MAB), Design, Enfermagem, Eng. de Produção e Publicidade e Propaganda (turmas de 2021)</p>
+<p><b>24</b> – Último dia para alunos matriculados em 2022/1 (regime anual) e 2022-1 (regime semestral) requererem alteração de matrícula</p>
+<p><b>24</b> – Data limite para envio de projetos de pesquisa para análise do Comitê de Ética em Pesquisa</p>
+<p><b>26</b> – Colação de grau – Comércio Exterior (turma de 2020)</p>
+		<table>
+			<thead>
+				<tr>
+					<th colspan="7" style="color:darkgreen;">Abril</th>
+				</tr>
+			</thead>
+			<thead>
+				<tr>
+					<th style="background-color:palegreen;">D</th>
+					<th style="background-color:palegreen;">S</th>
+					<th style="background-color:palegreen;">T</th>
+					<th style="background-color:palegreen;">Q</th>
+					<th style="background-color:palegreen;">Q</th>
+					<th style="background-color:palegreen;">S</th>
+					<th style="background-color:palegreen;">S</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>1</td>
+					<td>2</td>
+				</tr>
+				<tr>
+					<td><b>3</b></td>
+					<td>4</td>
+					<td>5</td>
+					<td>6</td>
+					<td>7</td>
+					<td>8</td>
+					<td>9</td>
+				</tr>
+				<tr>
+					<td><b>10</b></td>
+					<td>11</td>
+					<td>12</td>
+					<td>13</td>
+					<td>14</td>
+					<td style="background-color:darkgreen;"><b>15</b></td>
+					<td style="background-color:darkgreen;">16</td>
+				</tr>
+				<tr>
+					<td style="background-color:darkgreen;"><b>17</b></td>
+					<td>18</td>
+					<td>19</td>
+					<td>20</td>
+					<td style="background-color:darkgreen;"><b>21</b></td>
+					<td style="background-color:darkgreen;">22</td>
+					<td style="background-color:darkgreen;">23</td>
+				</tr>
+				<tr>
+					<td><b>24</b></td>
+					<td>25</td>
+					<td>26</td>
+					<td>27</td>
+					<td>28</td>
+					<td>29</td>
+					<td>30</td>
+				</tr>
+		</table>
+<p><b>2</b> – Colação de grau – Comércio Exterior (turma de 2019)</p>
+<p><b>7</b> – Colação de grau especial em São Bento do Sul</p>
+<p><b>9</b> – Colação de grau – Arquitetura e Urbanismo (Joinville, turma de 2020), Eng. Civil (Joinville, turmas de 2019 e 2020) e Eng. Mecânica (Joinville, turma de 2019)</p>
+<p><b>12 e 13</b> – Integração dos novos profissionais da educação</p>
+<p><b>13</b> – Reunião do Comitê de Ética em Pesquisa</p>
+<p><b>15</b> – Feriado nacional: Sexta-feira da Paixão</p>
+<p><b>15</b> – Feriado municipal em São Francisco do Sul: aniversário da cidade</p>
+<p><b>16</b> – Recesso acadêmico</p>
+<p><b>17</b> – Páscoa</p>
+<p><b>21</b> – Feriado nacional: Tiradentes</p>
+<p><b>22 e 23</b> – Recesso acadêmico</p>
+<p><b>28</b> – Data limite para envio de projetos de pesquisa para análise do Comitê de Ética em Pesquisa</p>
+<p><b>29</b> – Último dia para entrega do Plano Anual de Trabalho do Núcleo Docente Estruturante (NDE)</p>
+<p><b>29</b> – Último dia para alunos que renovaram matrícula entregarem o contrato de prestação de serviços educacionais à Central de Atendimento Acadêmico</p>
+<p><b>30</b> – Colação de grau – Ciências Contábeis, Ciências Econômicas, Letras e Pedagogia, todos de Joinville, turmas de 2021</p>
+
+		<table>
+			<thead>
+				<tr>
+					<th colspan="7" style="color:darkgreen;">Maio</th>
+				</tr>
+			</thead>
+			<thead>
+				<tr>
+					<th style="background-color:palegreen;">D</th>
+					<th style="background-color:palegreen;">S</th>
+					<th style="background-color:palegreen;">T</th>
+					<th style="background-color:palegreen;">Q</th>
+					<th style="background-color:palegreen;">Q</th>
+					<th style="background-color:palegreen;">S</th>
+					<th style="background-color:palegreen;">S</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td style="background-color:darkgreen;"><b>1</b></td>
+					<td>2</td>
+					<td>3</td>
+					<td>4</td>
+					<td>5</td>
+					<td>6</td>
+					<td>7</td>
+				</tr>
+				<tr>
+					<td><b>8</b></td>
+					<td>9</td>
+					<td>10</td>
+					<td>11</td>
+					<td>12</td>
+					<td>13</td>
+					<td>14</td>
+				</tr>
+				<tr>
+					<td><b>15</b></td>
+					<td>16</td>
+					<td>17</td>
+					<td>18</td>
+					<td>19</td>
+					<td>20</td>
+					<td>21</td>
+				</tr>
+				<tr>
+					<td><b>22</b></td>
+					<td>23</td>
+					<td>24</td>
+					<td>25</td>
+					<td>26</td>
+					<td>27</td>
+					<td>28</td>
+				</tr>
+				<tr>
+					<td><b>29</b></td>
+					<td>30</td>
+					<td>31</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+		</table>
+<p><b>1</b> – Feriado nacional: Dia do Trabalho</p>
+<p><b>2</b> – Último dia para publicação de notas do bimestre</p>
+<p><b>11</b> – Reunião do Comitê de Ética em Pesquisa</p>
+<p><b>13</b> – Colação de grau – Eng. Ambiental e Sanitária, Eng. Civil, Eng. Mecânica, Eng. Química, Eng. de Produção e Arquitetura e Urbanismo, todos de Joinville, turmas de 2021</p>
+<p><b>26</b> – Data limite para envio de projetos de pesquisa para análise do Comitê de Ética em Pesquisa</p>
+<p><b>28</b> – Colação de grau – Pedagogia, Letras e Ciências Econômicas, todos de Joinville, turmas de 2020</p>
+		<table>
+			<thead>
+				<tr>
+					<th colspan="7" style="color:darkgreen;">Junho</th>
+				</tr>
+			</thead>
+			<thead>
+				<tr>
+					<th style="background-color:palegreen;">D</th>
+					<th style="background-color:palegreen;">S</th>
+					<th style="background-color:palegreen;">T</th>
+					<th style="background-color:palegreen;">Q</th>
+					<th style="background-color:palegreen;">Q</th>
+					<th style="background-color:palegreen;">S</th>
+					<th style="background-color:palegreen;">S</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>1</td>
+					<td>2</td>
+					<td>3</td>
+					<td>4</td>
+				</tr>
+				<tr>
+					<td><b>5</b></td>
+					<td>6</td>
+					<td>7</td>
+					<td>8</td>
+					<td>9</td>
+					<td>10</td>
+					<td>11</td>
+				</tr>
+				<tr>
+					<td><b>12</b></td>
+					<td>13</td>
+					<td>14</td>
+					<td>15</td>
+					<td style="background-color:darkgreen;"><b>16</b></td>
+					<td style="background-color:darkgreen;">17</td>
+					<td style="background-color:darkgreen;">18</td>
+				</tr>
+				<tr>
+					<td><b>19</b></td>
+					<td>20</td>
+					<td>21</td>
+					<td>22</td>
+					<td>23</td>
+					<td>24</td>
+					<td>25</td>
+				</tr>
+				<tr>
+					<td><b>26</b></td>
+					<td>27</td>
+					<td>28</td>
+					<td>29</td>
+					<td>30</td>
+					<td></td>
+					<td></td>
+				</tr>
+		</table>
+<p><b>4</b> – Colação de grau – Publicidade e Propaganda, Ciências Biológicas (bacharelado e licenciatura), Design, Engenharia Ambiental e Sanitária e Administração, todos de Joinville, turmas de 2019</p>
+<p><b>8</b> – Reunião do Comitê de Ética em Pesquisa</p>
+<p><b>13</b> – Último dia para entrega das Atividades Complementares (alunos concluintes, exceto Medicina)</p>
+<p><b>16</b> – Feriado nacional: Corpus Christi</p>
+<p><b>17 e 18</b> – Recesso acadêmico</p>
+<p><b>23</b> – Data limite para envio de projetos de pesquisa para análise do Comitê de Ética em Pesquisa</p>
+		<table>
+			<thead>
+				<tr>
+					<th colspan="7" style="color:darkgreen;">Julho</th>
+				</tr>
+			</thead>
+			<thead>
+				<tr>
+					<th style="background-color:palegreen;">D</th>
+					<th style="background-color:palegreen;">S</th>
+					<th style="background-color:palegreen;">T</th>
+					<th style="background-color:palegreen;">Q</th>
+					<th style="background-color:palegreen;">Q</th>
+					<th style="background-color:palegreen;">S</th>
+					<th style="background-color:palegreen;">S</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>1</td>
+					<td>2</td>
+				</tr>
+				<tr>
+					<td><b>3</b></td>
+					<td>4</td>
+					<td>5</td>
+					<td>6</td>
+					<td>7</td>
+					<td>8</td>
+					<td>9</td>
+				</tr>
+				<tr>
+					<td><b>10</b></td>
+					<td style="background-color:yellow;">11</td>
+					<td style="background-color:yellow;">12</td>
+					<td style="background-color:yellow;">13</td>
+					<td style="background-color:yellow;">14</td>
+					<td style="background-color:yellow;">15</td>
+					<td style="background-color:yellow;">16</td>
+				</tr>
+				<tr>
+					<td><b>17</b></td>
+					<td style="background-color:coral;">18</td>
+					<td style="background-color:coral;">19</td>
+					<td style="background-color:coral;">20</td>
+					<td style="background-color:coral;">21</td>
+					<td style="background-color:coral;">22</td>
+					<td style="background-color:coral;">23</td>
+				</tr>
+				<tr>
+					<td><b>24</b></td>
+					<td style="background-color:lime;">25</td>
+					<td style="background-color:lime;">26</td>
+					<td style="background-color:lime;">27</td>
+					<td style="background-color:lime;">28</td>
+					<td style="background-color:lime;">29</td>
+					<td style="background-color:lime;">30</td>
+				</tr>
+				<tr>
+					<td style="background-color:lime;"><b>31</b></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+		</table>
+<p><b>9</b> – Término do semestre para cursos anuais e semestrais, exceto 4.ª e 5.ª série de Psicologia</p>
+<p><b>11 a 16</b> – Reposição/recuperação de aulas, exceto 4.ª e 5.ª série de Psicologia</p>
+<p><b>13</b> – Reunião do Comitê de Ética em Pesquisa</p>
+<p><b>16</b> – Término do 1.º semestre para a 4.ª e a 5.ª série do curso de Psicologia</p>
+<p><b>16</b> – Último dia para publicação de notas do bimestre</p>
+<p><b>18 a 23</b> – Exames finais</p>
+<p><b>18 e 19</b> – Profissionalização Docente Intensiva</p>
+<p><b>23</b> – Colação de grau – Eng. Ambiental e Sanitária, Eng. Química e Eng. de Produção, turmas de 2020</p>
+<p><b>25 a 31</b> – Recesso acadêmico</p>
+<p><b>25</b> – Início das aulas do curso de Ciências da Religião, Educação Especial, Educação Escolar Quilombola e da 4.ª e 5.ª séries do curso de Psicologia</p>
+<p><b>28</b> – Data limite para envio de projetos de pesquisa para análise do Comitê de Ética em Pesquisa</p>
+<p><b>30</b> – Colação de grau – Direito, Letras e Pedagogia, Joinville, turmas de 2022-2</p>
+		<table>
+			<thead>
+				<tr>
+					<th colspan="7" style="color:darkgreen;">Agosto</th>
+				</tr>
+			</thead>
+			<thead>
+				<tr>
+					<th style="background-color:palegreen;">D</th>
+					<th style="background-color:palegreen;">S</th>
+					<th style="background-color:palegreen;">T</th>
+					<th style="background-color:palegreen;">Q</th>
+					<th style="background-color:palegreen;">Q</th>
+					<th style="background-color:palegreen;">S</th>
+					<th style="background-color:palegreen;">S</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td></td>
+					<td style="background-color:yellow;">1</td>
+					<td>2</td>
+					<td>3</td>
+					<td>4</td>
+					<td>5</td>
+					<td>6</td>
+				</tr>
+				<tr>
+					<td><b>7</b></td>
+					<td>8</td>
+					<td>9</td>
+					<td>10</td>
+					<td>11</td>
+					<td>12</td>
+					<td>13</td>
+				</tr>
+				<tr>
+					<td><b>14</b></td>
+					<td>15</td>
+					<td>16</td>
+					<td>17</td>
+					<td>18</td>
+					<td>19</td>
+					<td>20</td>
+				</tr>
+				<tr>
+					<td><b>21</b></td>
+					<td>22</td>
+					<td>23</td>
+					<td>24</td>
+					<td>25</td>
+					<td>26</td>
+					<td>27</td>
+				</tr>
+				<tr>
+					<td><b>28</b></td>
+					<td>29</td>
+					<td>30</td>
+					<td>31</td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+		</table>
+<p><b>1</b> – Início das aulas</p>
+<p><b>6</b> – Colação de grau – Ciências Contábeis, Ciências Econômicas, Administração, Comércio Exterior e Gastronomia, todos de Joinville, turmas de 2022-1</p>
+<p><b>8</b> – Último dia para os alunos matriculados em 2022/2 (regime anual) e 2022-2 (regime semestral) requererem dispensa de disciplina, exame de aproveitamento de estudos e matrícula em disciplina extracurricular e fora da série</p>
+<p><b>8 a 12</b> – Semana da Comunidade</p>
+<p><b>10</b> – Reunião do Comitê de Ética em Pesquisa</p>
+<p><b>12</b> – Último dia para os alunos matriculados em 2021/2 (regime anual) e 2022-1 (regime semestral) solicitarem matrícula fora do prazo</p>
+<p><b>14</b> – Dia da Univille</p>
+<p><b>19</b> – Último dia para os alunos matriculados em 2022/2 (regime anual) e 2022-2 (regime semestral) requererem alteração de matrícula</p>
+<p><b>24 e 25</b> – Colação de grau especial em Joinville</p>
+<p><b>25</b> – Colação de grau especial em São Bento do Sul</p>
+<p><b>25</b> – Data limite para envio de projetos de pesquisa para análise do Comitê de Ética em Pesquisa</p>
+<p><b>27</b> – Colação de grau – Farmácia e Gastronomia, turmas de 2020</p>
+<p><b>31</b> – Último dia para os alunos que renovaram matrícula entregarem o contrato de prestação de serviços educacionais à Central de Atendimento Acadêmico</p>
+		<table>
+			<thead>
+				<tr>
+					<th colspan="7" style="color:darkgreen;">Setembro</th>
+				</tr>
+			</thead>
+			<thead>
+				<tr>
+					<th style="background-color:palegreen;">D</th>
+					<th style="background-color:palegreen;">S</th>
+					<th style="background-color:palegreen;">T</th>
+					<th style="background-color:palegreen;">Q</th>
+					<th style="background-color:palegreen;">Q</th>
+					<th style="background-color:palegreen;">S</th>
+					<th style="background-color:palegreen;">S</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>1</td>
+					<td>2</td>
+					<td>3</td>
+				</tr>
+				<tr>
+					<td><b>4</b></td>
+					<td>5</td>
+					<td>6</td>
+					<td style="background-color:darkgreen;"><b>7</b></td>
+					<td style="background-color:darkgreen;"><b>8</b></td>
+					<td>9</td>
+					<td>10</td>
+				</tr>
+				<tr>
+					<td><b>11</b></td>
+					<td>12</td>
+					<td>13</td>
+					<td>14</td>
+					<td>15</td>
+					<td>16</td>
+					<td>17</td>
+				</tr>
+				<tr>
+					<td><b>18</b></td>
+					<td>19</td>
+					<td>20</td>
+					<td>21</td>
+					<td>22</td>
+					<td style="background-color:darkgreen;"><b>23</b></td>
+					<td style="background-color:darkgreen;">24</td>
+				</tr>
+				<tr>
+					<td><b>25</b></td>
+					<td>26</td>
+					<td>27</td>
+					<td>28</td>
+					<td>29</td>
+					<td>30</td>
+					<td></td>
+				</tr>
+		</table>
+<p><b>3</b> – Colação de grau – Ciências Contábeis, Direito e Sistemas de Informação, todos de Joinville, turmas de 2020</p>
+<p><b>7</b> – Feriado nacional: Independência do Brasil</p>
+<p><b>8</b> – Feriado municipal em São Francisco do Sul: Dia da Padroeira</p>
+<p><b>9</b> – Colação de grau – Medicina, turma de 2020-2</p>
+<p><b>13 e 14</b> – Integração dos novos profissionais da educação</p>
+<p><b>14</b> – Reunião do Comitê de Ética em Pesquisa</p>
+<p><b>23</b> – Feriado municipal em São Bento do Sul: aniversário da cidade</p>
+<p><b>24</b> – Recesso acadêmico em São Bento do Sul</p>
+<p><b>29</b> – Data limite para envio de projetos de pesquisa para análise do Comitê de Ética em Pesquisa</p>
+		<table>
+			<thead>
+				<tr>
+					<th colspan="7" style="color:darkgreen;">Outubro</th>
+				</tr>
+			</thead>
+			<thead>
+				<tr>
+					<th style="background-color:palegreen;">D</th>
+					<th style="background-color:palegreen;">S</th>
+					<th style="background-color:palegreen;">T</th>
+					<th style="background-color:palegreen;">Q</th>
+					<th style="background-color:palegreen;">Q</th>
+					<th style="background-color:palegreen;">S</th>
+					<th style="background-color:palegreen;">S</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>1</td>
+				</tr>
+				<tr>
+					<td><b>2</b></td>
+					<td>3</td>
+					<td>4</td>
+					<td>5</td>
+					<td>6</td>
+					<td>7</td>
+					<td>8</td>
+				</tr>
+				<tr>
+					<td><b>9</b></td>
+					<td>10</td>
+					<td>11</td>
+					<td style="background-color:darkgreen;"><b>12</b></td>
+					<td>13</td>
+					<td>14</td>
+					<td style="background-color:darkgreen;"><b>15</b></td>
+				</tr>
+				<tr>
+					<td><b>16</b></td>
+					<td>17</td>
+					<td>18</td>
+					<td>19</td>
+					<td>20</td>
+					<td>21</td>
+					<td>22</td>
+				</tr>
+				<tr>
+					<td><b>23</b></td>
+					<td>24</td>
+					<td>25</td>
+					<td>26</td>
+					<td>27</td>
+					<td>28</td>
+					<td>29</td>
+				</tr>
+				<tr>
+					<td><b>30</b></td>
+					<td>31</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+		</table>
+<p><b>3</b> – Último dia para publicação de notas do bimestre</p>
+<p><b>12</b> – Feriado nacional: Dia de Nossa Senhora Aparecida, padroeira do Brasil</p>
+<p><b>13</b> – Reunião do Comitê de Ética em Pesquisa</p>
+<p><b>14</b> – Último dia para solicitação de prova de aproveitamento de estudos</p>
+<p><b>15</b> – Dia do Professor e do Auxiliar da Administração Escolar</p>
+<p><b>27</b> – Data limite para envio de projetos de pesquisa para análise do Comitê de Ética em Pesquisa</p>
+<p><b>31</b> – Último dia para entrega das atividades complementares (alunos concluintes, exceto Medicina)</p>
+		<table>
+			<thead>
+				<tr>
+					<th colspan="7" style="color:darkgreen;">Novembro</th>
+				</tr>
+			</thead>
+			<thead>
+				<tr>
+					<th style="background-color:palegreen;">D</th>
+					<th style="background-color:palegreen;">S</th>
+					<th style="background-color:palegreen;">T</th>
+					<th style="background-color:palegreen;">Q</th>
+					<th style="background-color:palegreen;">Q</th>
+					<th style="background-color:palegreen;">S</th>
+					<th style="background-color:palegreen;">S</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td></td>
+					<td></td>
+					<td>1</td>
+					<td style="background-color:darkgreen;"><b>2</b></td>
+					<td>3</td>
+					<td>4</td>
+					<td>5</td>
+				</tr>
+				<tr>
+					<td><b>6</b></td>
+					<td>7</td>
+					<td>8</td>
+					<td>9</td>
+					<td>10</td>
+					<td>11</td>
+					<td>12</td>
+				</tr>
+				<tr>
+					<td><b>13</b></td>
+					<td style="background-color:drakgreen;">14</td>
+					<td style="background-color:darkgreen;"><b>15</b></td>
+					<td>16</td>
+					<td>17</td>
+					<td>18</td>
+					<td>19</td>
+				</tr>
+				<tr>
+					<td><b>20</b></td>
+					<td>21</td>
+					<td>22</td>
+					<td>23</td>
+					<td>24</td>
+					<td>25</td>
+					<td>26</td>
+				</tr>
+				<tr>
+					<td><b>27</b></td>
+					<td>28</td>
+					<td>29</td>
+					<td>30</td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+		</table>
+<p><b>2</b> – Feriado nacional: Finados</p>
+<p><b>9</b> – Reunião do Comitê de Ética em Pesquisa</p>
+<p><b>14</b> – Recesso acadêmico</p>
+<p><b>15</b> – Feriado nacional: Proclamação da República</p>
+<p><b>24</b> – Data limite para envio de projetos de pesquisa para análise do Comitê de Ética em Pesquisa</p>
+		<table>
+			<thead>
+				<tr>
+					<th colspan="7" style="color:darkgreen;">Dezembro</th>
+				</tr>
+			</thead>
+			<thead>
+				<tr>
+					<th style="background-color:palegreen;">D</th>
+					<th style="background-color:palegreen;">S</th>
+					<th style="background-color:palegreen;">T</th>
+					<th style="background-color:palegreen;">Q</th>
+					<th style="background-color:palegreen;">Q</th>
+					<th style="background-color:palegreen;">S</th>
+					<th style="background-color:palegreen;">S</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>1</td>
+					<td>2</td>
+					<td>3</td>
+				</tr>
+				<tr>
+					<td><b>4</b></td>
+					<td style="background-color:yellow;">5</td>
+					<td style="background-color:yellow;">6</td>
+					<td style="background-color:yellow;">7</td>
+					<td style="background-color:yellow;">8</td>
+					<td style="background-color:yellow;">9</td>
+					<td style="background-color:yellow;">10</td>
+				</tr>
+				<tr>
+					<td><b>11</b></td>
+					<td style="background-color:coral;">12</td>
+					<td style="background-color:coral;">13</td>
+					<td style="background-color:coral;">14</td>
+					<td style="background-color:coral;">15</td>
+					<td style="background-color:coral;">16</td>
+					<td style="background-color:coral;">17</td>
+				</tr>
+				<tr>
+					<td><b>18</b></td>
+					<td>19</td>
+					<td>20</td>
+					<td>21</td>
+					<td>22</td>
+					<td>23</td>
+					<td>24</td>
+				</tr>
+				<tr>
+					<td style="background-color:darkgreen;"><b>25</b></td>
+					<td>26</td>
+					<td>27</td>
+					<td>28</td>
+					<td>29</td>
+					<td>30</td>
+					<td>31</td>
+				</tr>
+		</table>
+<p><b>4</b> – Término do semestre</p>
+<p><b>5 a 10</b> – Reposição/recuperação de aulas</p>
+<p><b>10</b> – Último dia para publicação de notas do bimestre</p>
+<p><b>12 a 17</b> – Exames finais</p>
+<p><b>14</b> – Reunião do Comitê de Ética em Pesquisa</p>
+<p><b>15</b> – Data limite para envio de projetos de pesquisa para análise do Comitê de Ética em Pesquisa</p>
+<p><b>21</b> – Último dia para publicação de notas de exames finais e trabalhos de conclusão de curso (TCC/TCE/monografia/trabalho de graduação)</p>
+<p><b>22</b> – Encerramento das atividades</p>
+<p><b>25</b> – Natal</p>
+	<body>
+</html>
